@@ -95,19 +95,11 @@ I am a full stack developer who worked for various organizations and companies f
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="60%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=eno7x&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eno7x&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
 <br/>  
-
-  
 
 <br/>  
 
@@ -115,9 +107,3 @@ I am a full stack developer who worked for various organizations and companies f
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
