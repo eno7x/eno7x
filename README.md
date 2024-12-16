@@ -19,8 +19,6 @@ I am a full stack developer who worked for various organizations and companies f
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I'm currently working on alamatra  
   
 
@@ -28,13 +26,6 @@ I am a full stack developer who worked for various organizations and companies f
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
