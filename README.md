@@ -93,17 +93,3 @@ I am a full stack developer who worked for various organizations and companies f
 
 <br/>  
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=eno7x&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eno7x&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-<br/>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=eno7x&&style=flat-square)  
-  
-
-<br/>  
